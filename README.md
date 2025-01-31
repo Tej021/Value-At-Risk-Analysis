@@ -1,4 +1,7 @@
-**Value at Risk (VAR) Analysis Project
+                                                               Value at Risk (VAR) Analysis Project
+
+
+
 Overview
 This project involves conducting Value at Risk (VAR) analysis using historical, Variance-Covariance, and Monte Carlo models on stock prices of HDFC Bank, HUL, and Tata Steel. The analysis includes back testing and calculating expected shortfall to validate model accuracy and assess market risk and portfolio volatility using returns data points.
 
